@@ -1,6 +1,9 @@
 eci\edu\cvds\tdd\registry\Registry.class
+eci\edu\cvds\tdd\aerodescuentos\Tarifa.class
+eci\edu\cvds\tdd\registry\RegistryTest.class
+eci\edu\cvds\tdd\aerodescuentos\ExcepcionParametrosInvalidos.class
 eci\edu\cvds\tdd\registry\Gender.class
 eci\edu\cvds\tdd\AppTest.class
 eci\edu\cvds\tdd\registry\RegisterResult.class
-eci\edu\cvds\tdd\registry\RegistryTest.class
 eci\edu\cvds\tdd\registry\Person.class
+eci\edu\cvds\tdd\aerodescuentos\TarifaTest.class

@@ -32,7 +32,6 @@ public class Registry {
         if(registeredIds.contains(p.getId())){
             return RegisterResult.DUPLICATED;
         }
-
         registeredIds.add(p.getId());
         return RegisterResult.VALID;
     }
