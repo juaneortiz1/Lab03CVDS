@@ -18,6 +18,13 @@ El uso de TDD nos permite asegurar que el código implementado cumpla con los re
 El proyecto está organizado en los siguientes paquetes y clases:
 
 - `eci.edu.cvds.tdd.aerodescuentos.Tarifa`: Clase principal que contiene la lógica de cálculo de tarifas.
+  ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/447f0c7f-3961-414a-a1fd-035f2cda7ded)
+
 - `eci.edu.cvds.tdd.aerodescuentos.CalculadorDescuentos`: Clase auxiliar que proporciona métodos para calcular descuentos.
+  ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/5f1bc72a-1699-44a5-a69e-61121c5eb628)
+
 - `eci.edu.cvds.tdd.aerodescuentos.ExcepcionParametrosInvalidos`: Clase de excepción que se lanza cuando se ingresan parámetros inválidos.
+  ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/1abcc509-b66f-47c3-82dd-49921e887012)
+  ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/479701ae-02cf-429c-a447-b73b360eabb1)
+
 
