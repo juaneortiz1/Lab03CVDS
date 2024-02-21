@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ClasesEquivalencia" />
         <module name="Lab01CVDS03" />
+        <module name="Lab02CVDS" />
       </profile>
     </annotationProcessing>
   </component>
