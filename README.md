@@ -16,6 +16,8 @@ Escuela Colombiana de Ingeniería Julio Garavito  
 
 Grupo 1   
 
+
+ingresar a la pagina del repositorio de maven, elegir el Jnunit elegir la actulización 4.13.2
 ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/86c1dbc8-1c29-4c81-ba57-5cc68f3bbba2)
 
 
