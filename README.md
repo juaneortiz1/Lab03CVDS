@@ -21,6 +21,20 @@ ingresar a la pagina del repositorio de maven, elegir el Jnunit elegir la actuli
 ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/86c1dbc8-1c29-4c81-ba57-5cc68f3bbba2)
 
 
+Copiar el código de la pestaña maven y pegar el encabezado de “propiedades” con el fin de cambiar la versión del compilador a la version 8 java
+
+<!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.2</version>
+    <scope>test</scope>
+</dependency>
+<properties>
+<maven.compiler.target>1.8</maven.compiler.target>
+<maven.compiler.source>1.8</maven.compiler.source>
+</properties>
+
 ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/39e101b4-5145-497a-bca6-dec4a2fb8a27)
 
 ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/24042652-6adc-474a-a950-aa92ea70d22f)
