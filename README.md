@@ -1,3 +1,109 @@
+Laboratorio No. 3 
+
+   
+
+   
+
+   
+
+   
+
+  
+
+  
+
+  
+
+  
+
+   
+
+   
+
+Presentado por:   
+
+Juan Esteban Ortiz Pastrana   
+
+   
+
+  
+
+  
+
+  
+
+  
+
+   
+
+   
+
+  
+
+  
+
+  
+
+   
+
+   
+
+Presentado a:   
+
+Jorge Ulises Useche Prieto   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+   
+
+Escuela Colombiana de Ingeniería Julio Garavito   
+
+Grupo 1   
+
+10 de febrero de 2024 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++ 
+
+ 
+
 
 # Aerolínea - Sistema de Cálculo de Tarifas
 
