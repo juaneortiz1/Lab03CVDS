@@ -18,7 +18,6 @@ Grupo 1  
 
 
 ingresar a la pagina del repositorio de maven, elegir el Jnunit elegir la actulización 4.13.2
-![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/86c1dbc8-1c29-4c81-ba57-5cc68f3bbba2)
 
 
 Copiar el código de la pestaña maven y pegar el encabezado de “propiedades” con el fin de cambiar la versión del compilador a la version 8 java
@@ -62,6 +61,7 @@ El uso de TDD nos permite asegurar que el código implementado cumpla con los re
 El proyecto está organizado en los siguientes paquetes y clases:
 
 mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=ClasesEquivalencia -Dpackage=edu.eci.cvds.tdd -DarchetypeArtifactId=maven-archetype-quickstart
+![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/86c1dbc8-1c29-4c81-ba57-5cc68f3bbba2)
 
 Compilar y ejecutar: Utiliza los comandos necesarios de Maven para compilar el proyecto y verificar que se creó correctamente, así como para ejecutar las pruebas unitarias.
 
