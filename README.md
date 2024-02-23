@@ -17,6 +17,10 @@ El uso de TDD nos permite asegurar que el código implementado cumpla con los re
 
 El proyecto está organizado en los siguientes paquetes y clases:
 
+mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=ClasesEquivalencia -Dpackage=edu.eci.cvds.tdd -DarchetypeArtifactId=maven-archetype-quickstart
+
+Compilar y ejecutar: Utiliza los comandos necesarios de Maven para compilar el proyecto y verificar que se creó correctamente, así como para ejecutar las pruebas unitarias.
+
 - `eci.edu.cvds.tdd.aerodescuentos.Tarifa`: Clase principal que contiene la lógica de cálculo de tarifas.
   ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/447f0c7f-3961-414a-a1fd-035f2cda7ded)
 
