@@ -28,6 +28,7 @@ Compilar y ejecutar: Utiliza los comandos necesarios de Maven para compilar el p
   ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/5f1bc72a-1699-44a5-a69e-61121c5eb628)
 
 - `eci.edu.cvds.tdd.aerodescuentos.ExcepcionParametrosInvalidos`: Clase de excepción que se lanza cuando se ingresan parámetros inválidos.
+  
   ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/1abcc509-b66f-47c3-82dd-49921e887012)
   ![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/479701ae-02cf-429c-a447-b73b360eabb1)
 
