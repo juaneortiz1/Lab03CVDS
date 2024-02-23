@@ -16,9 +16,15 @@ Escuela Colombiana de Ingeniería Julio Garavito  
 
 Grupo 1   
 
+![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/86c1dbc8-1c29-4c81-ba57-5cc68f3bbba2)
 
 
- 
+![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/39e101b4-5145-497a-bca6-dec4a2fb8a27)
+
+![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/24042652-6adc-474a-a950-aa92ea70d22f)
+
+![image](https://github.com/juaneortiz1/Lab03CVDS/assets/97971732/4e0198b5-5046-4ef0-87bb-7c2245e7d215)
+
 
 
 # Aerolínea - Sistema de Cálculo de Tarifas
